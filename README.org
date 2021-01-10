@@ -1,0 +1,6 @@
+#+TITLE: Assignment 1: Pacman
+
+* How to run our program
+  Clone the repository locally on your computer \\ 
+  Open the folder with visual studio(IDE), set main.cpp as start-up item,
+  Run the program 
